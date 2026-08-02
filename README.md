@@ -54,8 +54,8 @@
 ajith@cyberdeck:~$ whoami
 ┌─[ AJITH M ]────────────────────────────────────────────────┐
 │  role     : MEAN Stack Software Engineer                   │
-│  company  : Adamsbridge Innovations                        │
-│  location : Chennai, IN                                    │
+│  company  : Adamsbridge                         │
+│  location : coimbatore, IN                                    │
 │  focus    : Enterprise SaaS · 3D Web · Real-time Systems   │
 │  status   : ⚡ compiling ideas into production             │
 └────────────────────────────────────────────────────────────┘
