@@ -4,7 +4,10 @@
   ║  Cyberpunk × Dashboard × Terminal profile README                 ║
   ║  Palette: #00E5FF · #7ee787 · #ff2e63 · bg #0d1117               ║
   ╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <!-- ══════════════════════════ HERO BANNER ══════════════════════════ -->
+
 <a href="https://github.com/Ajith-softwaredeveloper">
   <img
     width="100%"
@@ -12,7 +15,9 @@
     alt="Ajith M — Cyberpunk hero banner"
   />
 </a>
+
 <div align="center">
+
 <a href="https://github.com/Ajith-softwaredeveloper">
   <img
     src="https://github.com/Ajith-softwaredeveloper.png"
@@ -21,9 +26,11 @@
     alt="Ajith M avatar"
   />
 </a>
+
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=650&color=00E5FF&center=true&vCenter=true&width=720&lines=%3E+MEAN+Stack+Software+Engineer;%3E+Angular+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;%3E+Building+enterprise+SaaS+%40+Adamsbridge;%3E+3D+web+experiences+with+Three.js+%26+GSAP;%3E+Ship+clean.+Ship+secure.+Ship+fast." alt="Typing SVG — role headlines" />
 </h3>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ajith-softwaredeveloper&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ajith-softwaredeveloper.Ajith-softwaredeveloper&left_color=0d1117&right_color=ff2e63&left_text=VISITORS" alt="Visitors" />
@@ -34,10 +41,15 @@
     <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-ff2e63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" />
   </a>
 </p>
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/master/utils/soft-purple.gif" width="100%" height="2" alt="divider" />
+
 </div>
+
 <!-- ═══════════════════════ TERMINAL: ABOUT ME ══════════════════════ -->
-<img src="https://img.shields.io/badge/-%3E_%20whoami-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="whoami" />
+
+## <img src="https://img.shields.io/badge/-%3E_%20whoami-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="whoami" />
+
 ```bash
 ajith@cyberdeck:~$ whoami
 ┌─[ AJITH M ]────────────────────────────────────────────────┐
@@ -65,14 +77,19 @@ ajith@cyberdeck:~$ echo $CURRENT_MISSION
 
 ajith@cyberdeck:~$ _
 ```
+
 <div align="center">
   <img src="https://img.shields.io/badge/🏆%20BEST%20PERFORMER-Q1%202026-ff2e63?style=for-the-badge&labelColor=0d1117" alt="Best Performer Q1 2026" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-7ee787?style=for-the-badge&labelColor=0d1117" alt="Status online" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABS-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Open to collabs" />
 </div>
+
 <br />
+
 <!-- ═══════════════════ DASHBOARD: FEATURED PROJECTS ═════════════════ -->
-<img src="https://img.shields.io/badge/-%3E_%20featured__projects-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="featured projects" />
+
+## <img src="https://img.shields.io/badge/-%3E_%20featured__projects-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="featured projects" />
+
 <table align="center" width="100%">
   <tr>
     <!-- ── Card 1 ── -->
@@ -155,9 +172,13 @@ ajith@cyberdeck:~$ _
     </td>
   </tr>
 </table>
+
 <br />
+
 <!-- ═════════════════════ SKILLS & TECH STACK ═══════════════════════ -->
-<img src="https://img.shields.io/badge/-%3E_%20tech__stack-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="tech stack" />
+
+## <img src="https://img.shields.io/badge/-%3E_%20tech__stack-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="tech stack" />
+
 <table align="center">
   <tr>
     <td align="right" width="140"><b>┌─ Frontend</b></td>
@@ -204,10 +225,15 @@ ajith@cyberdeck:~$ _
     </td>
   </tr>
 </table>
+
 <br />
+
 <!-- ══════════════════ GITHUB ANALYTICS DASHBOARD ═══════════════════ -->
-<img src="https://img.shields.io/badge/-%3E_%20github__analytics-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="github analytics" />
+
+## <img src="https://img.shields.io/badge/-%3E_%20github__analytics-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="github analytics" />
+
 <div align="center">
+
 <table>
   <tr>
     <td>
@@ -235,26 +261,39 @@ ajith@cyberdeck:~$ _
     </td>
   </tr>
 </table>
-🏆 Trophy Cabinet
+
+### 🏆 Trophy Cabinet
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Ajith-softwaredeveloper&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
     alt="GitHub trophies (cyberpunk / matrix theme)"
   />
 </a>
-📈 Contribution Activity
-<imgsrc="https://github-readme-activity-graph.vercel.app/graph?username=Ajith-softwaredeveloper&bg_color=0d1117&color=00E5FF&line=ff2e63&point=7ee787&area=true&area_color=00E5FF&hide_border=true&custom_title=Commits%20%2F%20Contributions%20%C2%B7%20last%2031%20days"width="100%"alt="Activity graph"/>
-🐍 Snake Devours My Contributions
+
+### 📈 Contribution Activity
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith-softwaredeveloper&bg_color=0d1117&color=00E5FF&line=ff2e63&point=7ee787&area=true&area_color=00E5FF&hide_border=true&custom_title=Commits%20%2F%20Contributions%20%C2%B7%20last%2031%20days"
+  width="100%"
+  alt="Activity graph"
+/>
+
+### 🐍 Snake Devours My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajith-softwaredeveloper/Ajith-softwaredeveloper/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajith-softwaredeveloper/Ajith-softwaredeveloper/output/github-contribution-grid-snake.svg" />
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Ajith-softwaredeveloper/Ajith-softwaredeveloper/output/github-contribution-grid-snake.svg" />
 </picture>
+
 </div>
+
 <br />
+
 <!-- ═══════════════════════ CONNECT FOOTER ══════════════════════════ -->
-<img src="https://img.shields.io/badge/-%3E_%20let's__connect-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="let's connect" />
+
+## <img src="https://img.shields.io/badge/-%3E_%20let's__connect-0d1117?style=flat-square&labelColor=0d1117&color=00E5FF" alt="let's connect" />
+
 <div align="center">
+
 <a href="https://linkedin.com/in/ajith-m">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -271,13 +310,20 @@ ajith@cyberdeck:~$ _
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7ee787" alt="GitHub" />
 </a>
 
-
+<br /><br />
 
 <sub>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=800&color=7ee787&center=true&vCenter=true&width=520&lines=%2F%2F+Thanks+for+scrolling+all+the+way+down.;%2F%2F+Now+go+build+something+ridiculous.;%2F%2F+Ship+clean.+Ship+secure.+Ship+fast." alt="Closing typing line" />
 </sub>
+
 </div>
-<imgwidth="100%"src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,50:7ee787,100:00E5FF&height=140&section=footer&animation=twinkling"alt="Closing cyberpunk wave"/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,50:7ee787,100:00E5FF&height=140&section=footer&animation=twinkling"
+  alt="Closing cyberpunk wave"
+/>
+
 <!--
   ─────────────────────────────────────────────────────────────────
   SETUP NOTES (delete before publishing if you prefer a clean file):
@@ -291,3 +337,4 @@ ajith@cyberdeck:~$ _
      "Run workflow". After that it runs every 12h automatically.
   4. All widgets are third-party — no secrets required.
   ─────────────────────────────────────────────────────────────────
+-->
