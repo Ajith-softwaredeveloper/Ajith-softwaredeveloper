@@ -1,42 +1,44 @@
 <div align="center">
 
-<!-- GLOWING CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7000ff,100:ff007f&height=200&section=header&text=AJITH%20M&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20MEAN%20Stack&descSize=20&descAlignY=68" width="100%" />
+<!-- TOP HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=AJITH%20M&fontSize=55&fontColor=00E5FF&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20MEAN%20Stack%20Specialist&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
 <br>
 
-<!-- PROFILE PICTURE WITH GLOW -->
+<!-- PROFILE AVATAR WITH NEON CIRCLE FRAME -->
 <a href="https://github.com/Ajith-softwaredeveloper">
-  <img src="https://github.com/Ajith-softwaredeveloper.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00e5ff; box-shadow: 0 0 20px #00e5ff;" alt="Ajith M" />
+  <img src="https://github.com/Ajith-softwaredeveloper.png" width="140" height="140" style="border-radius: 50%; border: 2px solid #00E5FF; box-shadow: 0 0 20px rgba(0, 229, 255, 0.5);" alt="Ajith M" />
 </a>
 
 <br><br>
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- ANIMATED TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=MEAN+Stack+Specialist;Building+Enterprise+SaaS+%40+Adamsbridge;Angular+%2B+Node.js+%2B+MongoDB;Exploring+MCP+%26+AI+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+SaaS+Platforms;Angular+%2B+PrimeNG+%2B+Node.js+%2B+MongoDB;Exploring+MCP+%26+AI-Augmented+Workflows" alt="Typing SVG" />
 </a>
 
+<br>
+
+<!-- TECH BADGES -->
 <p align="center">
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Angular-v19-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ `terminal --about-me`
+## ⚡ `about --me`
 
-```sys
-┌──(ajith㉿adamsbridge)-[~/profile]
-└─$ cat core_info.json
-{
-  "role": "Software Engineer",
-  "company": "Adamsbridge",
-  "key_project": "RealServ (Enterprise SaaS Property/Task Management)",
-  "accolade": "Best Performer of the Quarter — Q1 2026 🏆",
-  "location": "Coimbatore, Tamil Nadu, India 🇮🇳",
-  "exploring": ["Model Context Protocol (MCP)", "AI-Augmented Development"]
-}
+> **Software Engineer @ Adamsbridge** — Architecting and maintaining **RealServ**, an enterprise property and task management SaaS platform.
+
+```yaml
+role: Full Stack Software Engineer
+core_stack: Angular, PrimeNG, Node.js, Express, MongoDB
+recognition: Best Performer of the Quarter — Q1 2026 🏆
+researching: Model Context Protocol (MCP) & AI-assisted workflows 🤖
+integrations: MS Graph, MSAL, SharePoint, AWS S3, Box API
+location: Coimbatore, Tamil Nadu, India 🇮🇳
