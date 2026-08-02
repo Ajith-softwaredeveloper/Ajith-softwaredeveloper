@@ -60,3 +60,36 @@
 ## 💻 Featured Projects
 
 <div align="center">
+┌────────────────────────────────────────────────────────────────────────┐
+│ 🚀 RealServ Platform — Enterprise Property & Task Management Platform   │
+│ 💻 Angular Portfolio — Interactive v19 App with Three.js & GSAP       │
+│ 🏢 Office Management System — Enterprise Internal Workflow Portal      │
+│ 🛡️ Smart Guard (IoT) — Sensor Monitoring Collision Alert System        │
+└────────────────────────────────────────────────────────────────────────┘
+
+</div>
+
+---
+
+## 📊 Analytics & Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ajith-softwaredeveloper&show_icons=true&theme=tokyonight&hide_border=false&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&text_color=9e9e9e&icon_color=00E5FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajith-softwaredeveloper&layout=compact&theme=tokyonight&hide_border=false&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&text_color=9e9e9e" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-softwaredeveloper)
+
+</div>
